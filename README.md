@@ -1,0 +1,2 @@
+# ZeroPageUsernameSharedNode
+ZeroPageUsernameSharedNode authentication node for AM
