@@ -1,0 +1,3 @@
+org/forgerock/openam/auth/nodes/ZeroPageUsernameSecretNodePlugin.class
+org/forgerock/openam/auth/nodes/ZeroPageUsernameSecretNode$Config.class
+org/forgerock/openam/auth/nodes/ZeroPageUsernameSecretNode.class
